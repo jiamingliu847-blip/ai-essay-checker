@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Essay Checker
 
-## Getting Started
+AI Essay Checker 是一个智能作文分析工具，帮助用户快速检查英文作文的字数、句子结构，并提供写作建议。
 
-First, run the development server:
+## 项目简介
+
+本项目是一个基于 Next.js 16 构建的 Web 应用，用户可以输入英文作文，点击分析按钮后获得：
+- 字数统计
+- 字符数统计
+- 句子数统计
+- 写作建议
+
+## 主要功能
+
+- ✏️ 作文输入
+- 📊 实时统计
+- 🔍 智能分析
+- 🎨 简洁界面
+- 🧹 一键清空
+
+## 使用的 AI 工具
+
+- **Claude (Anthropic)**
+- **ChatGPT**
+
+## 技术栈
+
+- **框架**：Next.js 16
+- **语言**：TypeScript
+- **样式**：Tailwind CSS
+
+## 运行方法
 
 ```bash
+git clone https://github.com/jiamingliu847-blip/ai-essay-checker.git
+cd ai-essay-checker
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+课程信息
+课程：编程语言特论
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+作业：Vibe Coding 个人项目
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+提交日期：2026年6月8日
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+作者
+GitHub: jiamingliu847-blip
