@@ -46,4 +46,5 @@ npm run dev
 作者
 GitHub: jiamingliu847-blip
 网址：https://ai-essay-checker.vercel.app/
-<img width="1912" height="1017" alt="屏幕截图 2026-06-07 170321" src="https://github.com/user-attachments/assets/e2d6a1ee-47ae-48b5-9ad5-8d0b76c904d8" />
+<img width="1912" height="1017" alt="屏幕截图 2026-06-07 170321" src="https://github.com/user-attachments/assets/48a80cde-fa53-4755-b459-e857f9a559cf" />
+
