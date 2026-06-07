@@ -1,3 +1,4 @@
+<img width="1912" height="1017" alt="屏幕截图 2026-06-07 170321" src="https://github.com/user-attachments/assets/9f293079-af20-4110-8bc8-4b57a280789e" />
 # AI Essay Checker
 
 AI Essay Checker 是一个智能作文分析工具，帮助用户快速检查英文作文的字数、句子结构，并提供写作建议。
