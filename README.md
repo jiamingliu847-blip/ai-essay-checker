@@ -19,7 +19,6 @@ AI Essay Checker 是一个智能作文分析工具，帮助用户快速检查英
 - 🧹 一键清空
 
 ## 使用的 AI 工具
-<img width="1912" height="1017" alt="屏幕截图 2026-06-07 170321" src="https://github.com/user-attachments/assets/e2d6a1ee-47ae-48b5-9ad5-8d0b76c904d8" />
 
 - **Claude (Anthropic)**
 - **ChatGPT**
@@ -47,3 +46,4 @@ npm run dev
 作者
 GitHub: jiamingliu847-blip
 网址：https://ai-essay-checker.vercel.app/
+<img width="1912" height="1017" alt="屏幕截图 2026-06-07 170321" src="https://github.com/user-attachments/assets/e2d6a1ee-47ae-48b5-9ad5-8d0b76c904d8" />
